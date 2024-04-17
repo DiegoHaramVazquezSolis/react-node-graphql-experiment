@@ -50,3 +50,5 @@ To-do:
 [Apollo Server documentatino](https://www.apollographql.com/docs/apollo-server/)
 
 [Apollo Client documentation](https://www.apollographql.com/docs/react/)
+
+[Prisma documentation](https://www.prisma.io/docs)
