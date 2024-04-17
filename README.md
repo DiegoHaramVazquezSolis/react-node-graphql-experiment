@@ -39,5 +39,5 @@ To-do:
 - [x] Update .env.example file.
 - [ ] Share database schema and `CREATE TABLE` commands.
 - [ ] Script to create and populate database.
-- [ ] CRUD operation on frontend.
+- [ ] Finish CRUD operation on frontend.
 - [ ] Tests for all frontend components.
