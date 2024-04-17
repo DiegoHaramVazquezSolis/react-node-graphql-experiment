@@ -18,6 +18,17 @@ Install dependencies:
 npm install
 ```
 
+Start with Prisma:
+```
+npx prisma init
+```
+```
+npx prisma db pull
+```
+```
+npx prisma generate
+```
+
 Run proyect:
 ```
 npm start
@@ -25,7 +36,7 @@ npm start
 
 
 To-do:
-- [ ] Update .env.example file.
+- [x] Update .env.example file.
 - [ ] Share database schema and `CREATE TABLE` commands.
 - [ ] Script to create and populate database.
 - [ ] CRUD operation on frontend.
