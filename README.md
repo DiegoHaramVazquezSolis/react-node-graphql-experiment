@@ -41,3 +41,12 @@ To-do:
 - [ ] Script to create and populate database.
 - [ ] Finish CRUD operation on frontend.
 - [ ] Tests for all frontend components.
+
+# References
+[Tutorial that got me started!](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
+
+[PostgreSQL documentation](https://www.postgresql.org/docs/current/index.html)
+
+[Apollo Server documentatino](https://www.apollographql.com/docs/apollo-server/)
+
+[Apollo Client documentation](https://www.apollographql.com/docs/react/)
